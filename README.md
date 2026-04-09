@@ -1,2 +1,5 @@
 # Python-Practice
-A simple Git and GitHub assignment with Python, C++, commits, push, pull, merge, and version control practice.
+To Build Your Own Identity
+One day people should say:
+“This person knows AI. This person can build solutions.”
+That is real respect.
